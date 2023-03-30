@@ -1,0 +1,18 @@
+.users { 
+  width: 80vw; 
+  margin: 0 auto; 
+  border: 1px solid palevioletred; 
+  display: flex; 
+  align-items: center; 
+  justify-content: space-around; 
+  flex-wrap: wrap; 
+  padding: 1-px; 
+} 
+ 
+.user-n { 
+  width: 180px; 
+  padding: 5px; 
+  background-color: rgba(227, 227, 227); 
+  border-radius: 15px; 
+  text-align: center; 
+}
